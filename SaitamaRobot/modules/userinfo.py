@@ -306,7 +306,7 @@ def info(update: Update, context: CallbackContext):
         disaster_level_present = True
 
     if disaster_level_present:
-        text += ' [<a href="https://t.me/Gabi_Log_Group">?</a>]'.format(
+        text += ' [<a href="https://t.me/Gabi_Support_Log">?</a>]'.format(
             bot.username
         )
 
