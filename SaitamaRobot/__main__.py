@@ -230,11 +230,11 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🚑 Support Group",
-                                url=f"https://t.me/GabiSupportGroup",
+                                url=f"https://t.me/Gabi_Help_Support",
                             ),
                             InlineKeyboardButton(
-                                text="🔔 Gabi Log Channel",
-                                url="https://t.me/Gabi_Log_Group",
+                                text="🔔 Gabi Log",
+                                url="https://t.me/Gabi_Support_Log",
                             ),
                         ],
                         [
